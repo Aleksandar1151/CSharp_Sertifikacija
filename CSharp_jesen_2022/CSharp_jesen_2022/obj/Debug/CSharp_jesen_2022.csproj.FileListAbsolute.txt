@@ -1,0 +1,11 @@
+C:\Users\Kliker11\source\repos\CSharp_jesen_2022\CSharp_jesen_2022\bin\Debug\CSharp_jesen_2022.exe.config
+C:\Users\Kliker11\source\repos\CSharp_jesen_2022\CSharp_jesen_2022\bin\Debug\CSharp_jesen_2022.exe
+C:\Users\Kliker11\source\repos\CSharp_jesen_2022\CSharp_jesen_2022\bin\Debug\CSharp_jesen_2022.pdb
+C:\Users\Kliker11\source\repos\CSharp_jesen_2022\CSharp_jesen_2022\obj\Debug\CSharp_jesen_2022.csproj.AssemblyReference.cache
+C:\Users\Kliker11\source\repos\CSharp_jesen_2022\CSharp_jesen_2022\obj\Debug\CSharp_jesen_2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kliker11\source\repos\CSharp_jesen_2022\CSharp_jesen_2022\obj\Debug\CSharp_jesen_2022.Form1.resources
+C:\Users\Kliker11\source\repos\CSharp_jesen_2022\CSharp_jesen_2022\obj\Debug\CSharp_jesen_2022.Properties.Resources.resources
+C:\Users\Kliker11\source\repos\CSharp_jesen_2022\CSharp_jesen_2022\obj\Debug\CSharp_jesen_2022.csproj.GenerateResource.cache
+C:\Users\Kliker11\source\repos\CSharp_jesen_2022\CSharp_jesen_2022\obj\Debug\CSharp_jesen_2022.csproj.CoreCompileInputs.cache
+C:\Users\Kliker11\source\repos\CSharp_jesen_2022\CSharp_jesen_2022\obj\Debug\CSharp_jesen_2022.exe
+C:\Users\Kliker11\source\repos\CSharp_jesen_2022\CSharp_jesen_2022\obj\Debug\CSharp_jesen_2022.pdb
